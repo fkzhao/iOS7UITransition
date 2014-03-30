@@ -210,7 +210,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0510;
-				ORGANIZATIONNAME = Anselz;
+				ORGANIZATIONNAME = NeoWork;
 				TargetAttributes = {
 					694F0EC418E7ADB9001F96B0 = {
 						TestTargetID = 694F0EA918E7ADB9001F96B0;
@@ -463,6 +463,7 @@
 				694F0ED818E7ADB9001F96B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		694F0ED918E7ADB9001F96B0 /* Build configuration list for PBXNativeTarget "iOS7UITransitionTests" */ = {
 			isa = XCConfigurationList;
@@ -471,6 +472,7 @@
 				694F0EDB18E7ADB9001F96B0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
